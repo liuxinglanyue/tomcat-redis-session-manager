@@ -8,5 +8,6 @@ example-app/.gradle/*
 /bin/
 .classpath
 .project
+.settings
 *.iml
 .idea/*
